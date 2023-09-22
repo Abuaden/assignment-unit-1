@@ -1,8 +1,6 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
-bub
-'
 
 # 2 - What is the command for changing directories?
 
