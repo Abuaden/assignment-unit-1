@@ -1,11 +1,14 @@
 /* Add a background color to the header element */
 header{
     background-color: rgb(210, 156, 55);
+    font-family: papyrus;
+    font-style: ;
+    color: black;
 }
 
 /* Add a fun background color to the main element */
 main {
-    background-color: rgb(133, 120, 215);
+    background-color: rgb(175, 166, 233);
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -31,6 +34,8 @@ img {
 /* Change the font-family of your list */
 ul {
     font-family: Papyrus,Tahoma, sans-serif;
+    font-style: ;
+    color: black;
 }
 
 /* Add a background color to the footer element */
