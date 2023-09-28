@@ -14,7 +14,7 @@ In an empty folder i'd expect no result and for it to be blank, and with a folde
 touch
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
-# 8 - Why would you run the command 'git status'?
+# 8 - Why would you run thommand 'git status'?
 To see the changes that have been made in the code 
 # 9 - What does the command 'git add .' do?
 adds modified and new files that are untracked in the code
